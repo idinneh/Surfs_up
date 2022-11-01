@@ -6,7 +6,7 @@ An investor wants to learn more and see the trends in the weather before committ
 ## Results
 - The average temperature in both June and December is in the 70's. June being 74.95 while December is 71.04.
 - Interestingly, the maximum temperature for June and December are quite similar. June having a max temp of 85 while December is 83.
-- The minimum temperature shows thegreatest variance. The temperature in December drops more compared to June. The minimum temperature for December is 56 while June is 64. 
+- The minimum temperature shows the greatest variance. The temperature in December drops more compared to June. The minimum temperature for December is 56 while June is 64. 
 
  ### Summary Statistics for Temperatures in June            
 ![june_temps](Resources/june_temps.png)

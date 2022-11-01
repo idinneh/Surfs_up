@@ -9,10 +9,10 @@ An investor wants to learn more and see the trends in the weather before committ
 - The minimum temperature shows thegreatest variance. The temperature in December drops more compared to June. The minimum temperature for December is 56 while June is 64. 
 
  ### Summary Statistics for Temperatures in June            
-                ![june_temps](Resources/june_temps.png)
+![june_temps](Resources/june_temps.png)
                 
 ### Summary Statistics for Temperatures in December               
-                ![dec_temps](Resources/dec_temps.png)
+![dec_temps](Resources/dec_temps.png)
 
 ## Summary
 In summary, the weather in December and June are historically very similar, although December has a wider range of results, with its high being close to June's but minimum temperature being lower than June. Additional queries that could be run include: Precipation difference between June and December to determine is one has more rainy weather and a comaparison by weather station, as we may see higher/lower temperatures and precipitation levels at different locations. However, the primary interest would be the weather station closest to our prospective location, which would narrow the results and provide the best data for us to consider.
